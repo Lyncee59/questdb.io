@@ -14,6 +14,20 @@ type Quote = {
 
 const quotes: Quote[] = [
   {
+    website: "https://www.airbus.com/",
+    logo: {
+      alt: "Airbus logo",
+      src: "/img/pages/customers/logos/airbus.svg",
+      height: 18,
+      width: 100,
+    },
+    text:
+      "QuestDB is used at Airbus for real-time applications involving hundreds of millions of data points per day. For us, QuestDB is an outstanding solution that meets (and exceeds) our performance requirements.",
+    author: "Oliver Pfeiffer",
+    role: "Software Architect",
+    company: "Airbus",
+  },
+  {
     website: "https://www.verizon.com/",
     logo: {
       alt: "Verizon logo",

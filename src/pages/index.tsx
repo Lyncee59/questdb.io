@@ -218,9 +218,9 @@ const Customers = () => (
     <div className={cuCss.logo}>
       <div className={cuCss.logo__item}>
         <img
-          alt="DATRON logo"
+          alt="Yahoo logo"
           height={22}
-          src="/img/pages/customers/logos/datron.svg"
+          src="/img/pages/customers/logos/yahoo.svg"
           width={110}
         />
       </div>
@@ -234,10 +234,10 @@ const Customers = () => (
       </div>
       <div className={cuCss.logo__item}>
         <img
-          alt="Verizon logo"
-          height={25}
-          src="/img/pages/customers/logos/verizon.svg"
-          width={110}
+          alt="Airbus logo"
+          height={20}
+          src="/img/pages/customers/logos/airbus.svg"
+          width={140}
         />
       </div>
       <div className={cuCss.logo__item}>
@@ -251,14 +251,6 @@ const Customers = () => (
       </div>
       <div className={cuCss.logo__item}>
         <img
-          alt="Innova logo"
-          height={20}
-          src="/img/pages/customers/logos/innova.svg"
-          width={100}
-        />
-      </div>
-      <div className={cuCss.logo__item}>
-        <img
           alt="Ably logo"
           height={28}
           src="/img/pages/customers/logos/ably.svg"
@@ -267,18 +259,82 @@ const Customers = () => (
       </div>
       <div className={cuCss.logo__item}>
         <img
-          alt="Insurance Information Institute logo"
-          height={41}
-          src="/img/pages/customers/logos/iii.svg"
+          alt="First Advantage logo"
+          height={30}
+          src="/img/pages/customers/logos/fadv.svg"
+          width={180}
+        />
+      </div>
+      <div className={cuCss.logo__item}>
+        <img
+          alt="DATRON logo"
+          height={22}
+          src="/img/pages/customers/logos/datron.svg"
+          width={110}
+        />
+      </div>
+      <div className={cuCss.logo__item}>
+        <img
+          alt="United Kingdom Atomic Energy Authority"
+          height={80}
+          src="/img/pages/customers/logos/uk_aea.svg"
+          width={160}
+        />
+      </div>
+      <div className={cuCss.logo__item}>
+        <img
+          alt="Blockchain logo"
+          height={42}
+          src="/img/pages/customers/logos/blockchain.svg"
+          width={130}
+        />
+      </div>
+      <div className={cuCss.logo__item}>
+        <img
+          alt="Turk Telekom logo"
+          height={65}
+          src="/img/pages/customers/logos/turk_telekom.svg"
           width={140}
         />
       </div>
       <div className={cuCss.logo__item}>
         <img
-          alt="First Advantage logo"
-          height={35}
-          src="/img/pages/customers/logos/fadv.svg"
-          width={180}
+          alt="LiveAction logo"
+          height={20}
+          src="/img/pages/customers/logos/liveaction.svg"
+          width={100}
+        />
+      </div>
+      <div className={cuCss.logo__item}>
+        <img
+          alt="Toggle"
+          height={18}
+          src="/img/pages/customers/logos/toggle.svg"
+          width={140}
+        />
+      </div>
+      <div className={cuCss.logo__item}>
+        <img
+          alt="Hevo Data"
+          height={61}
+          src="/img/pages/customers/logos/hevo_data.svg"
+          width={110}
+        />
+      </div>
+      <div className={cuCss.logo__item}>
+        <img
+          alt="Tymlez"
+          height={71}
+          src="/img/pages/customers/logos/tymlez.svg"
+          width={110}
+        />
+      </div>
+      <div className={cuCss.logo__item}>
+        <img
+          alt="Syntropy"
+          height={41}
+          src="/img/pages/customers/logos/syntropy.svg"
+          width={110}
         />
       </div>
     </div>
