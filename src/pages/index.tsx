@@ -276,7 +276,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="United Kingdom Atomic Energy Authority"
-          height={80}
+          height={40}
           src="/img/pages/customers/logos/uk_aea.svg"
           width={160}
         />
@@ -292,7 +292,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Turk Telekom logo"
-          height={65}
+          height={45}
           src="/img/pages/customers/logos/turk_telekom.svg"
           width={140}
         />
@@ -310,23 +310,15 @@ const Customers = () => (
           alt="Toggle"
           height={18}
           src="/img/pages/customers/logos/toggle.svg"
-          width={140}
-        />
-      </div>
-      <div className={cuCss.logo__item}>
-        <img
-          alt="Hevo Data"
-          height={61}
-          src="/img/pages/customers/logos/hevo_data.svg"
-          width={110}
+          width={120}
         />
       </div>
       <div className={cuCss.logo__item}>
         <img
           alt="Tymlez"
-          height={71}
+          height={55}
           src="/img/pages/customers/logos/tymlez.svg"
-          width={110}
+          width={120}
         />
       </div>
       <div className={cuCss.logo__item}>
