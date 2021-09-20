@@ -219,7 +219,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Yahoo logo"
-          height={22}
+          height={56}
           src="/img/pages/customers/logos/yahoo.svg"
           width={140}
         />
@@ -227,7 +227,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Kepler logo"
-          height={34}
+          height={56}
           src="/img/pages/customers/logos/kepler.svg"
           width={140}
         />
@@ -235,7 +235,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Airbus logo"
-          height={20}
+          height={56}
           src="/img/pages/customers/logos/airbus.svg"
           width={140}
         />
@@ -244,7 +244,7 @@ const Customers = () => (
         <img
           alt="YCombinator logo"
           className={cuCss.logo__img}
-          height={34}
+          height={56}
           src="/img/pages/customers/logos/yc.svg"
           width={140}
         />
@@ -252,7 +252,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Ably logo"
-          height={28}
+          height={56}
           src="/img/pages/customers/logos/ably.svg"
           width={140}
         />
@@ -260,7 +260,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="First Advantage logo"
-          height={30}
+          height={56}
           src="/img/pages/customers/logos/fadv.svg"
           width={140}
         />
@@ -268,7 +268,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="DATRON logo"
-          height={22}
+          height={56}
           src="/img/pages/customers/logos/datron.svg"
           width={140}
         />
@@ -276,7 +276,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="United Kingdom Atomic Energy Authority"
-          height={40}
+          height={56}
           src="/img/pages/customers/logos/uk_aea.svg"
           width={140}
         />
@@ -284,7 +284,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Blockchain logo"
-          height={42}
+          height={56}
           src="/img/pages/customers/logos/blockchain.svg"
           width={140}
         />
@@ -292,7 +292,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Turk Telekom logo"
-          height={45}
+          height={56}
           src="/img/pages/customers/logos/turk_telekom.svg"
           width={140}
         />
@@ -300,7 +300,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="LiveAction logo"
-          height={20}
+          height={56}
           src="/img/pages/customers/logos/liveaction.svg"
           width={140}
         />
@@ -308,7 +308,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Toggle"
-          height={18}
+          height={56}
           src="/img/pages/customers/logos/toggle.svg"
           width={140}
         />
@@ -316,7 +316,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Tymlez"
-          height={55}
+          height={56}
           src="/img/pages/customers/logos/tymlez.svg"
           width={140}
         />
@@ -324,7 +324,7 @@ const Customers = () => (
       <div className={cuCss.logo__item}>
         <img
           alt="Syntropy"
-          height={41}
+          height={56}
           src="/img/pages/customers/logos/syntropy.svg"
           width={140}
         />

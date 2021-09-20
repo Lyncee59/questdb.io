@@ -53,9 +53,9 @@ const Customers = () => {
           <img
             alt="Datron logo"
             className="responsive-image"
-            height={20}
+            height={56}
             src="/img/pages/customers/logos/datron.svg"
-            width={110}
+            width={140}
           />
         </Button>
         <Button
@@ -66,22 +66,9 @@ const Customers = () => {
           <img
             alt="Kepler logo"
             className="responsive-image"
-            height={34}
+            height={56}
             src="/img/pages/customers/logos/kepler.svg"
             width={140}
-          />
-        </Button>
-        <Button
-          className={loCss.logo__wrapper}
-          href="https://www.verizon.com/"
-          variant="plain"
-        >
-          <img
-            alt="Verizon logo"
-            className="responsive-image"
-            height={22}
-            src="/img/pages/customers/logos/verizon.svg"
-            width={110}
           />
         </Button>
         <Button
@@ -92,9 +79,9 @@ const Customers = () => {
           <img
             alt="YCombinator logo"
             className="responsive-image"
-            height={34}
-            src="/img/pages/customers/logos/yc.png"
-            width={34}
+            height={56}
+            src="/img/pages/customers/logos/yc.svg"
+            width={140}
           />
         </Button>
         <Button
@@ -105,9 +92,9 @@ const Customers = () => {
           <img
             alt="Innova logo"
             className="responsive-image"
-            height={20}
+            height={56}
             src="/img/pages/customers/logos/innova.svg"
-            width={100}
+            width={140}
           />
         </Button>
         <Button
@@ -118,9 +105,9 @@ const Customers = () => {
           <img
             alt="Ably logo"
             className="responsive-image"
-            height={28}
+            height={56}
             src="/img/pages/customers/logos/ably.svg"
-            width={90}
+            width={140}
           />
         </Button>
         <Button
@@ -131,7 +118,7 @@ const Customers = () => {
           <img
             alt="Insurance Information Institute logo"
             className="responsive-image"
-            height={41}
+            height={56}
             src="/img/pages/customers/logos/iii.svg"
             width={140}
           />
@@ -144,9 +131,9 @@ const Customers = () => {
           <img
             alt="First Advantage logo"
             className="responsive-image"
-            height={35}
+            height={56}
             src="/img/pages/customers/logos/fadv.svg"
-            width={180}
+            width={140}
           />
         </Button>
       </section>
